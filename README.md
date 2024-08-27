@@ -32,8 +32,8 @@ Collection of various algorithms
 &nbsp;    
 &nbsp;
 
-Most of the algorithms were implemented by me as part of university courses and may be inaccurate or contain errors <img src="docs/images/ico/angry-hat.svg" width="13">
+Most of the algorithms were implemented by me as part of university courses and may be inaccurate or contain errors
 
 ---
 
-Vectors and icons by <a href="https://www.svgrepo.com" target="_blank">SVG Repo</a>
+Vectors and icons by <a href="https://www.svgrepo.com" target="_blank">SVG Repo</a><img src="docs/images/ico/angry-hat.svg" width="7%" align="right"/> 
