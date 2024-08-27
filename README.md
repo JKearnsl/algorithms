@@ -14,16 +14,25 @@ Collection of various algorithms
 
 ## Table of Contents
 
-- [<img src="docs/images/ico/heuristic.svg" width="20"/> Heuristic Algorithms](items/heuristic/README.md)  
-- [<img src="docs/images/ico/steganography.svg" width="20"/> Steganography](items/steganography/README.md)  
-- [<img src="docs/images/ico/sorting.svg" width="20"/> Sorting](items/sorting/README.md)  
-- [<img src="docs/images/ico/searching.svg" width="20"/> Searching](items/searching/README.md)   
-- [<img src="docs/images/ico/graphs.svg" width="20"/> Graphs](items/graphs/README.md)   
+&nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/heuristic.svg" width="13"/> Heuristic Algorithms](items/heuristic/README.md)
+
+&nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/steganography.svg" width="13"/> Steganography](items/steganography/README.md)
+
+&nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/sorting.svg" width="13"/> Sorting](items/sorting/README.md)
+
+&nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/searching.svg" width="13"/> Searching](items/searching/README.md)
+
+&nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/graphs.svg" width="13"/> Graphs](items/graphs/README.md)
 
 
+&nbsp;    
+&nbsp;    
+&nbsp;    
+&nbsp;    
+&nbsp;    
+&nbsp;
 
-
-Most of the algorithms were implemented by me as part of university courses and may be inaccurate or contain errors.
+Most of the algorithms were implemented by me as part of university courses and may be inaccurate or contain errors <img src="docs/images/ico/angry-hat.svg" width="13">
 
 ---
 
