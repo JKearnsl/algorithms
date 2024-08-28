@@ -16,8 +16,6 @@ Collection of various algorithms
 
 &nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/heuristic.svg" width="13"/> Heuristic Algorithms](items/heuristic)
 
-&nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/steganography.svg" width="13"/> Steganography](items/steganography)
-
 &nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/combinatoric.svg" width="13"/> Combinatorics](items/combinatoric)
 
 &nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/encoding.svg" width="13"/> Encoding](items/encoding)
