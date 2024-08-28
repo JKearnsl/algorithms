@@ -14,19 +14,19 @@ Collection of various algorithms
 
 ## Table of Contents
 
-&nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/heuristic.svg" width="13"/> Heuristic Algorithms](items/heuristic/README.md)
+&nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/heuristic.svg" width="13"/> Heuristic Algorithms](items/heuristic)
 
-&nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/steganography.svg" width="13"/> Steganography](items/steganography/README.md)
+&nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/steganography.svg" width="13"/> Steganography](items/steganography)
 
-&nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/combinatoric.svg" width="13"/> Combinatorics](items/combinatoric/README.md)
+&nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/combinatoric.svg" width="13"/> Combinatorics](items/combinatoric)
 
-&nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/encoding.svg" width="13"/> Encoding](items/encoding/README.md)
+&nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/encoding.svg" width="13"/> Encoding](items/encoding)
 
-&nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/sorting.svg" width="13"/> Sorting](items/sorting/README.md)
+&nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/sorting.svg" width="13"/> Sorting](items/sorting)
 
-&nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/searching.svg" width="13"/> Searching](items/searching/README.md)
+&nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/searching.svg" width="13"/> Searching](items/searching)
 
-&nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/graphs.svg" width="13"/> Graphs](items/graphs/README.md)
+&nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/graphs.svg" width="13"/> Graphs](items/graphs)
 
 
 &nbsp;    
