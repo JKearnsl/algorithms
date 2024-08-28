@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="docs/images/logo.svg" width="170"/>
+  <img src="docs/images/logo.svg" width="170" alt="Logo Algorithms"/>
 </div>
 
 
