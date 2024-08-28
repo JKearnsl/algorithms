@@ -14,7 +14,7 @@
 
 ### Интерфейс
 
-![image](https://user-images.githubusercontent.com/76239707/236921635-ce57a408-fd28-4473-82d1-1f67b703b83a.png)
+![image](https://github.com/user-attachments/assets/cb9ec85f-4b6b-4e4e-a155-53616bccf78a)
 
 ### Алгоритм поиска в глубину (ПВГ)
 
