@@ -34,7 +34,9 @@ Collection of various algorithms
 &nbsp;    
 &nbsp;    
 &nbsp;    
-&nbsp;
+&nbsp;    
+&nbsp;    
+&nbsp;    
 
 Most of the algorithms were implemented by me as part of university courses and may be inaccurate or contain errors
 
