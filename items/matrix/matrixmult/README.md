@@ -7,11 +7,12 @@
 
 ### Скриншоты
 
-![image](https://github.com/JKearnsl/MatrixMult/assets/76239707/ae20c91a-8b6e-4cc0-aab6-fb59474a4d25)
+![image](https://github.com/user-attachments/assets/9653adfa-82bb-4332-ae11-8c3f04d274ab)
 
-![image](https://github.com/JKearnsl/MatrixMult/assets/76239707/b0a76b32-e775-4c6e-8bd0-93c6387ea2bb)
+![image](https://github.com/user-attachments/assets/1375e67e-7156-4de7-bd79-1b315ae1a466)
 
-![image](https://github.com/JKearnsl/MatrixMult/assets/76239707/cb1e18b1-35e3-4215-a0f6-2a94e8db7dcb)
+![image](https://github.com/user-attachments/assets/03776155-5e28-4c28-83c2-cc3f6ea10343)
+
 
 
 ### Запуск
