@@ -11,9 +11,10 @@
 
 ### Интерфейс
 
-![image](https://github.com/JKearnsl/short_path_in_graph/assets/76239707/d99327da-2fed-4089-b56e-b84586bd3aa3)
+![image](https://github.com/user-attachments/assets/a52c75b9-dbd7-42f4-a307-cacdd8b7a4cd)
 
-![image](https://github.com/JKearnsl/short_path_in_graph/assets/76239707/072db912-e595-4041-810d-d4a5cbbf3b8a)
+![image](https://github.com/user-attachments/assets/20980125-a809-4759-8cf2-ab57f225f3da)
+
 
 
 ### Алгоритм Беллмана-Форда
