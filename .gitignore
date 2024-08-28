@@ -1,5 +1,6 @@
-# Rust build
+# Rust
 /target
+cargo.lock
 
 # AI checker
 .ai
