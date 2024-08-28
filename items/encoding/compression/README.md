@@ -10,10 +10,10 @@ This section presents lossless compression algorithms.
 
 ## Table of Contents
 
-- [Huffman](algorithms/huffman/README.md)
-- [Shannon-Fano](algorithms/shannon-fano/README.md)
-- [Lempel-Ziv (LZ77)](algorithms/lz77/README.md)
-- [Lempel-Ziv (LZ78)](algorithms/lz78/README.md)
-- [Lempel-Ziv-Welch (LZW)](algorithms/lzw/README.md)
-- [Lempel-Ziv-Storer-Szymanski (LZSS)](algorithms/lzss/README.md)
-- [Example of LZ78 + Interval](algorithms/lz77-interval/README.md)
+- [Huffman](algorithms/huffman)
+- [Shannon-Fano](algorithms/shannon-fano)
+- [Lempel-Ziv (LZ77)](algorithms/lz77)
+- [Lempel-Ziv (LZ78)](algorithms/lz78)
+- [Lempel-Ziv-Welch (LZW)](algorithms/lzw)
+- [Lempel-Ziv-Storer-Szymanski (LZSS)](algorithms/lzss)
+- [Example of LZ78 + Interval](algorithms/lz77-interval)

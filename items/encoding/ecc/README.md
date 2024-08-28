@@ -4,5 +4,5 @@ Error-correcting code (ECC) is a method of detecting and correcting errors in da
 
 ## Table of Contents
 
-- [Hamming Code](hamming/README.md)
-- [BCH / cyclic Code](cyclic-bch/README.md)
+- [Hamming Code](hamming)
+- [BCH / cyclic Code](cyclic-bch)
