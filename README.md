@@ -18,7 +18,9 @@ Collection of various algorithms
 
 &nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/steganography.svg" width="13"/> Steganography](items/steganography/README.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/encoding.svg" width="13"/> Encoding](items/steganography/README.md)
+&nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/combinatoric.svg" width="13"/> Combinatorics](items/combinatoric/README.md)
+
+&nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/encoding.svg" width="13"/> Encoding](items/encoding/README.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/sorting.svg" width="13"/> Sorting](items/sorting/README.md)
 
