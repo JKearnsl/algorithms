@@ -22,6 +22,8 @@ Collection of various algorithms
 
 &nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/encoding.svg" width="13"/> Encoding](items/encoding)
 
+&nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/encoding.svg" width="13"/> Matrix](items/matrix)
+
 &nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/sorting.svg" width="13"/> Sorting](items/sorting)
 
 &nbsp;&nbsp;&nbsp;&nbsp; [<img src="docs/images/ico/searching.svg" width="13"/> Searching](items/searching)
